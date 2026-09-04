@@ -1,2 +1,0 @@
-# rpg
-Repositório para rpgs
